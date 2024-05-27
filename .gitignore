@@ -4,3 +4,7 @@ Gemini/obj/
 IdentityClient/bin/
 IdentityClient/obj/
 Gemini/bin/
+PlayrightConsole/bin/
+PlayrightConsole/obj/
+PlaywrightTests/bin/
+PlaywrightTests/obj/
